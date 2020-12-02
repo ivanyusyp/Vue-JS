@@ -5,6 +5,6 @@
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci,
       numquam.
     </p>
-    <a href="/todos">Todos</a>
+    <router-link to="/todos">Todos</router-link>
   </div>
 </template>
